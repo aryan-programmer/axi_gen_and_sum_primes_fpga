@@ -1,0 +1,12 @@
+{
+  "name": "wait_delay_timer",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "wait_delay_timer"
+  },
+  "previousBuildStatusMap": {}
+}

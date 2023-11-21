@@ -1,0 +1,12 @@
+{
+  "name": "four_digit_7_seg_driver",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "four_digit_7_seg_driver"
+  },
+  "previousBuildStatusMap": {}
+}

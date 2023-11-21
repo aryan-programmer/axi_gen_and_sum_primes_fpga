@@ -1,0 +1,12 @@
+{
+  "name": "led_slave_axi_to_wire",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "led_slave_axi_to_wire"
+  },
+  "previousBuildStatusMap": {}
+}

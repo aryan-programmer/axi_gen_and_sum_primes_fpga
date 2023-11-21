@@ -1,0 +1,12 @@
+{
+  "name": "decimal_digit_splitter",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "decimal_digit_splitter"
+  },
+  "previousBuildStatusMap": {}
+}

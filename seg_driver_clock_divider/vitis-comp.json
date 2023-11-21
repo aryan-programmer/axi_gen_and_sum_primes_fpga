@@ -1,0 +1,12 @@
+{
+  "name": "seg_driver_clock_divider",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "seg_driver_clock_divider"
+  },
+  "previousBuildStatusMap": {}
+}

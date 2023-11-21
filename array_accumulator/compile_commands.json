@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "E:\\HDLProjects\\arrays_ws\\array_accumulator",
+    "arguments": [
+      "C:\\Xilinx\\Vitis_HLS\\2023.2\\tps\\win64\\msys64\\mingw64\\bin\\g++",
+      "-IC:/local/etl-20.38.6/include",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include\\etc",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include\\ap_sysc",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\auto_cc\\include",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\systemc\\include",
+      "--compile",
+      "E:\\HDLProjects\\arrays_ws\\array_accumulator\\array_accumulator.hpp"
+    ],
+    "file": "E:\\HDLProjects\\arrays_ws\\array_accumulator\\array_accumulator.hpp"
+  },
+  {
+    "directory": "E:\\HDLProjects\\arrays_ws\\array_accumulator",
+    "arguments": [
+      "C:\\Xilinx\\Vitis_HLS\\2023.2\\tps\\win64\\msys64\\mingw64\\bin\\g++",
+      "-IC:/local/etl-20.38.6/include",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include\\etc",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include\\ap_sysc",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\auto_cc\\include",
+      "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\systemc\\include",
+      "--compile",
+      "E:\\HDLProjects\\arrays_ws\\array_accumulator\\array_accumulator.cpp"
+    ],
+    "file": "E:\\HDLProjects\\arrays_ws\\array_accumulator\\array_accumulator.cpp"
+  }
+]

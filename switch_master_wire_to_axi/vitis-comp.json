@@ -1,0 +1,12 @@
+{
+  "name": "switch_master_wire_to_axi",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "switch_master_wire_to_axi"
+  },
+  "previousBuildStatusMap": {}
+}

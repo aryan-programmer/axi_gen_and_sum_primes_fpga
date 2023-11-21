@@ -1,0 +1,12 @@
+{
+  "name": "array_accumulator",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "array_accumulator"
+  },
+  "previousBuildStatusMap": {}
+}

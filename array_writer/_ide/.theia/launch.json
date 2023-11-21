@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "array_writer",
+      "type": "gdb",
+      "request": "launch",
+      "target": "${workspaceFolder}\\array_writer\\array_writer\\hls\\csim\\build\\csim.exe",
+      "cwd": "${workspaceFolder}\\array_writer\\array_writer\\hls\\csim\\build",
+      "gdbpath": "${env:XILINX_HLS}\\tps\\win64\\msys64\\mingw64\\bin\\gdb.exe",
+      "valuesFormatting": "prettyPrinters"
+    }
+  ]
+}

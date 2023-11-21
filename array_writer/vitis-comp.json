@@ -1,0 +1,12 @@
+{
+  "name": "array_writer",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "array_writer"
+  },
+  "previousBuildStatusMap": {}
+}
