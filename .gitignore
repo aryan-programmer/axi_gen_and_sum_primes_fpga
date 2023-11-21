@@ -22,6 +22,7 @@
 */*/reports/
 *.hlscompile_summary
 *.hlsrun_csim_summary
+*.hlsrun_cosim_summary
 *.hlsrun_package_summary
 
 validate_aie_pl

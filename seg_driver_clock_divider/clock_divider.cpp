@@ -5,7 +5,7 @@ void                  seg_driver_clock_divider(bool input, bool *output) {
 #pragma HLS INTERFACE mode = ap_none port = input
 #pragma HLS INTERFACE mode = ap_none port = output
 
-	static counter_t<CLOCK_DIVISON_FACTOR> ctr     = CLOCK_DIVISON_FACTOR;
+	static counter_t<CLOCK_DIVISON_FACTOR> ctr     = CLOCK_DIVISON_FACTOR - 1;
 	static bool                            started = false;
 
 	bool out = false;
@@ -13,7 +13,7 @@ void                  seg_driver_clock_divider(bool input, bool *output) {
 	if ((!started && input) || started) {
 		started = true;
 		if (ctr == 0) {
-			ctr = CLOCK_DIVISON_FACTOR;
+			ctr = CLOCK_DIVISON_FACTOR - 1;
 			out = true;
 		} else {
 			ctr--;

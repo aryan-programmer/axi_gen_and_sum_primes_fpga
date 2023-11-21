@@ -1,6 +1,6 @@
 [
   {
-    "directory": "E:\\HDLProjects\\arrays_ws\\seg_driver_clock_divider",
+    "directory": "E:\\HDLProjects\\axi_gen_and_sum_primes_fpga\\seg_driver_clock_divider",
     "arguments": [
       "C:\\Xilinx\\Vitis_HLS\\2023.2\\tps\\win64\\msys64\\mingw64\\bin\\g++",
       "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include",
@@ -9,12 +9,12 @@
       "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\auto_cc\\include",
       "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\systemc\\include",
       "--compile",
-      "E:\\HDLProjects\\arrays_ws\\seg_driver_clock_divider\\clock_divider.hpp"
+      "E:\\HDLProjects\\axi_gen_and_sum_primes_fpga\\seg_driver_clock_divider\\clock_divider.cpp"
     ],
-    "file": "E:\\HDLProjects\\arrays_ws\\seg_driver_clock_divider\\clock_divider.hpp"
+    "file": "E:\\HDLProjects\\axi_gen_and_sum_primes_fpga\\seg_driver_clock_divider\\clock_divider.cpp"
   },
   {
-    "directory": "E:\\HDLProjects\\arrays_ws\\seg_driver_clock_divider",
+    "directory": "E:\\HDLProjects\\axi_gen_and_sum_primes_fpga\\seg_driver_clock_divider",
     "arguments": [
       "C:\\Xilinx\\Vitis_HLS\\2023.2\\tps\\win64\\msys64\\mingw64\\bin\\g++",
       "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\include",
@@ -23,8 +23,8 @@
       "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\auto_cc\\include",
       "-isystemC:\\Xilinx\\Vitis_HLS\\2023.2\\win64\\tools\\systemc\\include",
       "--compile",
-      "E:\\HDLProjects\\arrays_ws\\seg_driver_clock_divider\\clock_divider.cpp"
+      "E:\\HDLProjects\\axi_gen_and_sum_primes_fpga\\seg_driver_clock_divider\\clock_divider.hpp"
     ],
-    "file": "E:\\HDLProjects\\arrays_ws\\seg_driver_clock_divider\\clock_divider.cpp"
+    "file": "E:\\HDLProjects\\axi_gen_and_sum_primes_fpga\\seg_driver_clock_divider\\clock_divider.hpp"
   }
 ]
